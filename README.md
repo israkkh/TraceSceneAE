@@ -1,15 +1,13 @@
 # TraceSceneAE
 # 🎬 TraceSceneAE
-
 ⚠️ Note: This GitHub repo contains only the core `.jsx` scripts.  
 
-To run the full working version (including Node.js scripts, binaries, and all dependencies), download the ZIP here: [Full Package ZIP Link]
+To run the full working version (including Node.js scripts, binaries, and all dependencies), you can either **use the ZIP folder provided** or **download the full package from Payhip**.  
 
-Setup Steps:
-1. Extract the ZIP.  
-2. Keep `.jsx` and `.mjs` together.  
-3. Ensure Node.js (portable or system-installed) is accessible.  
-4. Open `TraceSceneAE.jsx` in After Effects and follow instructions.
+For a step-by-step guide on how to set up and use TraceSceneAE, check out the **YouTube tutorial**: 
+
+
+
 
 
 ---
