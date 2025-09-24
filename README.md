@@ -53,12 +53,3 @@ Cuts down hours of manual searching, making it easy to locate a scene or episode
 
 ---
 
-## 📸 Screenshots / GIFs
-
-*(Add images or GIFs here showing the UI and features in action)*
-
----
-
-## 📝 License
-
-*(Optional — choose your license, e.g., MIT, if you want open source)*
