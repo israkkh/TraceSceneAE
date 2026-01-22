@@ -4,7 +4,7 @@
 
 To run the full working version (including Node.js scripts, binaries, and all dependencies), you can either **use the ZIP folder provided** or **download the full package from Payhip**.  
 
-For a step-by-step guide on how to set up and use TraceSceneAE, check out the **YouTube tutorial**: 
+For a step-by-step guide on how to set up and use TraceSceneAE, check out the tutorial: https://youtu.be/nTlpAGnQMXg?si=0FVy08MAEkfA2WeD 
 
 
 
